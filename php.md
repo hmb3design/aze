@@ -9,7 +9,7 @@ function nom_de_la_fonction ($parametres) {
 }
 ```
 
-## php
+## Variables
 On crée une variables comme cela:
 ```php
 <?php
