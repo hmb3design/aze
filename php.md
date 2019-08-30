@@ -1,6 +1,9 @@
 # Fiche de révision sur le PHP
 
 ## Fonctions
+Une fonction sert a créer une fonctionnalité.
+
+
 En PHP, on crée une fonction comme cela:
 ```php
 <?php
